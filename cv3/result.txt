@@ -1,0 +1,133 @@
+SIFT:
+最相似的三个图像：
+41.jpg
+15.jpg
+47.jpg
+最相似的三个图像：
+7.jpg
+6.jpg
+29.jpg
+最相似的三个图像：
+6.jpg
+7.jpg
+15.jpg
+最相似的三个图像：
+16.jpg
+7.jpg
+47.jpg
+最相似的三个图像：
+29.jpg
+7.jpg
+4.jpg
+
+颜色直方图：
+Source Image: ./game_image/source1.jpg
+Image: 20.jpg
+Similarity: 0.5529575522919894
+---
+Image: 49.jpg
+Similarity: 0.5308162916547301
+---
+Image: 21.jpg
+Similarity: 0.5195422374203382
+---
+
+Source Image: ./game_image/source2.jpg
+Image: 49.jpg
+Similarity: 0.6424025366477322
+---
+Image: 15.jpg
+Similarity: 0.6262943411359958
+---
+Image: 24.jpg
+Similarity: 0.6047910388300829
+---
+
+Source Image: ./game_image/source3.jpg
+Image: 33.jpg
+Similarity: 0.5637775395287348
+---
+Image: 48.jpg
+Similarity: 0.518108133070641
+---
+Image: 20.jpg
+Similarity: 0.5068104638133696
+---
+
+Source Image: ./game_image/source4.jpg
+Image: 10.jpg
+Similarity: 0.7253325474179904
+---
+Image: 21.jpg
+Similarity: 0.6987830033622405
+---
+Image: 40.jpg
+Similarity: 0.5736958269231265
+---
+
+Source Image: ./game_image/source5.jpg
+Image: 17.jpg
+Similarity: 0.338520062509546
+---
+Image: 47.jpg
+Similarity: 0.3048754116588721
+---
+Image: 23.jpg
+Similarity: 0.28346864960057283
+---
+
+HSV矩阵：
+Source Image: ./game_image/source1.jpg
+Image: 20.jpg
+Similarity: 0.05244543348283377
+---
+Image: 27.jpg
+Similarity: 0.02966705947341487
+---
+Image: 29.jpg
+Similarity: 0.02612765277653925
+---
+
+Source Image: ./game_image/source2.jpg
+Image: 24.jpg
+Similarity: 0.07516463977155102
+---
+Image: 49.jpg
+Similarity: 0.03829646326056712
+---
+Image: 44.jpg
+Similarity: 0.03295184797309731
+---
+
+Source Image: ./game_image/source3.jpg
+Image: 27.jpg
+Similarity: 0.05484904291887604
+---
+Image: 33.jpg
+Similarity: 0.032422183899231065
+---
+Image: 20.jpg
+Similarity: 0.03234049518362926
+---
+
+Source Image: ./game_image/source4.jpg
+Image: 28.jpg
+Similarity: 0.11920632947767563
+---
+Image: 21.jpg
+Similarity: 0.11344424542642388
+---
+Image: 10.jpg
+Similarity: 0.10428342222752626
+---
+
+Source Image: ./game_image/source5.jpg
+Image: 47.jpg
+Similarity: 0.026430606839231784
+---
+Image: 43.jpg
+Similarity: 0.02363170766990841
+---
+Image: 22.jpg
+Similarity: 0.022622103755506513
+---
